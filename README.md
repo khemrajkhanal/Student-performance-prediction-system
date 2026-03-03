@@ -40,11 +40,6 @@ The system can:
 2. **Predict letter grades** (A, B, C, D, F) using classification models
 3. **Provide actionable recommendations** for improvement
 
-### 🎓 Academic Context
-- **Course**: [Your Course Name]
-- **Institution**: [Your University/College]
-- **Semester**: [Semester/Year]
-
 ---
 
 ## ✨ Features
